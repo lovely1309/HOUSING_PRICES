@@ -1,7 +1,9 @@
 
 ## Objective:
 1.This project aims apply various [Python](https://www.python.org/) tools to get a visual understanding of the data and clean it to make it ready to apply machine learning opertation on it and to finally able to predict prices of houses.
+
 2. Develop an algorithm to estimate the value of the residential homes based on fixed characteristics (those that are not considered easy to renovate).
+
 3. Identify characteristics of homes that the company can cost-effectively change/renovate with their construction team.
 
 Use the information to buy homes that are likely to sell for more than the initial purchase.
@@ -31,5 +33,5 @@ You will also need to have software installed to run and execute a [Jupyter Note
 ### Results
 * With the help of `GradientBoostingRegessorr` and tuned parameters we are able to achieve r2_score of **0.995416710249**.
 * `Solution.csv` is also given in repository to match results of test datase.
-## Authors
+## Author
 This repo is maintained by Lovely Choudhary (mailto: lovelychoudhary1309@gmail.com)
